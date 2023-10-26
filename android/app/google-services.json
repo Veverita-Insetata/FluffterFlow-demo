@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42906959593",
+    "project_id": "sniff-demo-70d7f",
+    "storage_bucket": "sniff-demo-70d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42906959593:android:c39766e5aff1c91eabfa78",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ3vhjlJgGT3dUboMT28O6qMVbe5ooAlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
